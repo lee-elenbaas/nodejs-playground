@@ -1,0 +1,15 @@
+{
+  "name": "server_stop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hutil": "^0.1.6",
+    "yargs": "^5.0.0"
+  }
+}
